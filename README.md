@@ -1,5 +1,7 @@
 Airline Ticket Reservation System
+
 Overview
+
 This project is a Python-based Airline Ticket Reservation System designed to simulate a simplified booking process. It demonstrates key programming concepts such as:
 
 Arrays (1D & 2D) for seat layout
